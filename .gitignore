@@ -1,0 +1,7 @@
+# Build results
+/[Dd]ebug/
+/Backup/
+*.suo
+*.v12.suo
+/ipch/
+*.sdf

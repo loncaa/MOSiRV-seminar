@@ -1,0 +1,16 @@
+﻿Build started 9.7.2014. 12:20:49.
+     1>Project "D:\Users\Antonio\Documents\Visual Studio 2013\Projects\MOSiRV project\Opencv0.3\Opencv0.3.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ID:\OpenCv\build\include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\MOSiRV project.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "MOSiRV project.cpp"
+         MOSiRV project.cpp
+     1>d:\users\antonio\documents\visual studio 2013\projects\mosirv project\opencv0.3\mosirv project.cpp(58): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Users\Antonio\Documents\Visual Studio 2013\Projects\MOSiRV project\Debug\MOSiRV project.exe" /INCREMENTAL /NOLOGO /LIBPATH:D:\OpenCv\build\x86\vc12\lib /LIBPATH:D:\OpenCv\build\x86\vc12\bin opencv_calib3d248d.lib opencv_contrib248d.lib opencv_core248d.lib opencv_features2d248d.lib opencv_flann248d.lib opencv_gpu248d.lib opencv_highgui248d.lib opencv_imgproc248d.lib opencv_legacy248d.lib opencv_ml248d.lib opencv_nonfree248d.lib opencv_objdetect248d.lib opencv_photo248d.lib opencv_stitching248d.lib opencv_ts248d.lib opencv_video248d.lib opencv_videostab248d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Users\Antonio\Documents\Visual Studio 2013\Projects\MOSiRV project\Debug\MOSiRV project.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Users\Antonio\Documents\Visual Studio 2013\Projects\MOSiRV project\Debug\MOSiRV project.lib" /MACHINE:X86 Debug\Opencv0.3.res
+         "Debug\MOSiRV project.obj"
+         Debug\stdafx.obj
+         Opencv0.3.vcxproj -> D:\Users\Antonio\Documents\Visual Studio 2013\Projects\MOSiRV project\Debug\MOSiRV project.exe
+     1>Done Building Project "D:\Users\Antonio\Documents\Visual Studio 2013\Projects\MOSiRV project\Opencv0.3\Opencv0.3.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.31
